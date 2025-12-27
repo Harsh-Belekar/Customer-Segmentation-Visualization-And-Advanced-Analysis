@@ -153,3 +153,13 @@ An **interactive Power BI dashboard** was created to visualize churn trends and 
 - Data Visualization (Python & Power BI)
 - Insight-driven decision making
 - Dashboard design & storytelling
+
+---
+
+## 🧑‍💻 Author
+
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
+📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
+
+📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
